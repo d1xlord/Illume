@@ -1,0 +1,10 @@
+CUESDK*
+__pycache__/
+backup/
+build/
+dist/
+idletime
+kill_illume.bat
+start_illume.bat
+pid
+*.spec
