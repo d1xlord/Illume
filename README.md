@@ -1,7 +1,7 @@
 # Illume
 ### Lighting Sleep Application for Corsair Peripherals
 
-** CUE-SDK is used for controling lightings **
+**CUE-SDK is used for controling lightings**
 
 ---
 
